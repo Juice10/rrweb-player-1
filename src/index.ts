@@ -1,4 +1,4 @@
-import { Replayer, unpack } from 'rrweb'
+import { Replayer, unpack } from './rrweb-all'
 
 import './styles.css'
 import { formatTime } from './format'
